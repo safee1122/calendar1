@@ -81,12 +81,6 @@
   background-position: center center;
 }
 
-.tail-datetime-calendar .calendar-navi span:first-child,
-.tail-datetime-calendar .calendar-navi span:last-child {
-  /* width: 35px;
-  padding: 0 0 5px 0;
-  font-size: 22px; */
-}
 
 .tail-datetime-calendar .calendar-navi span:hover {
   background-color: rgba(0, 0, 0, 0.15);
